@@ -1,4 +1,7 @@
 # ExempleSpecFlowNUnit
+# Language: English
+
+# Language: Portuguese
 Passo 1
 Adicione o plugin do SpecFlow no VS que estiver usando 
 No VS 2019 -> Extensions -> Manage Extensions
